@@ -1,5 +1,5 @@
 [TOC]
-
+<!-- TOC -->autoauto- [1	for循环嵌套](#1	for循环嵌套)auto- [2	while循环](#2	while循环)auto    - [for和while的使用场景](#for和while的使用场景)auto- [3	do..while循环](#3	dowhile循环)auto- [4	break和continue](#4	break和continue)auto- [5	表达式和语句](#5	表达式和语句)auto- [6	数组](#6	数组)auto- [7	基本类型和复杂类型的区别](#7	基本类型和复杂类型的区别)auto- [8	小练习](#8	小练习)autoauto<!-- /TOC -->
 ### 1	for循环嵌套
 
 - 循环嵌套不是什么特殊语法，就是说js中的许多语法结构都可以嵌套使用，for也可以
